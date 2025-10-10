@@ -1,0 +1,42 @@
+# Unreal Engine standard ignore
+
+# Binaries and intermediates
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.VC.opendb
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Auto-generated project files
+*.xcodeproj
+*.xcworkspace
+*.opensdf
+*.sdf
+*.tlog
+
+# Backup and log files
+*.log
+*.tlog
+*.tmp
+
+# Crash data
+Saved/Crashes/
+Saved/Logs/
+
+# Build outputs
+Build/
+
+# Config backups
+Config/DefaultEditor.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Ignore Unreal auto-generated git folder if any
+Script/
